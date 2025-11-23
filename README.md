@@ -1,0 +1,2 @@
+# static
+staitc schemas
